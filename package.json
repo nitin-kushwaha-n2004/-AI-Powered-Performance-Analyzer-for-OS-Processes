@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chart.js": "^4.4.8"
+  },
+  "devDependencies": {
+    "@types/chart.js": "^2.9.41",
+    "typescript": "^5.8.2"
+  },
+  "name": "new-folder-(3)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

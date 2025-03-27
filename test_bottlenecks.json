@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "High_CPU_Process",
+        "cpu": 95.5,
+        "memory": 600.2,
+        "io": 30.8
+    },
+    {
+        "id": 2,
+        "name": "High_Memory_Process",
+        "cpu": 45.2,
+        "memory": 950.5,
+        "io": 25.3
+    },
+    {
+        "id": 3,
+        "name": "High_IO_Process",
+        "cpu": 55.8,
+        "memory": 400.1,
+        "io": 85.2
+    },
+    {
+        "id": 4,
+        "name": "Multiple_Bottleneck_Process",
+        "cpu": 92.4,
+        "memory": 950.8,
+        "io": 75.6
+    },
+    {
+        "id": 5,
+        "name": "Normal_Process",
+        "cpu": 35.7,
+        "memory": 350.3,
+        "io": 25.8
+    }
+] 

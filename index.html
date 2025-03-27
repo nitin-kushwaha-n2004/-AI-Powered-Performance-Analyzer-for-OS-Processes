@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Powered Performance Analyzer</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>AI-Powered Performance Analyzer</h1>
+            <div class="controls">
+                <button id="startBtn">Start Monitoring</button>
+                <button id="stopBtn">Stop Monitoring</button>
+                <input type="file" id="processFile" accept=".json,.txt">
+            </div>
+        </header>
+
+        <main>
+            <section class="process-section">
+                <h2>Active Processes</h2>
+                <div class="process-container"></div>
+            </section>
+
+            <section class="analysis-section">
+                <h2>AI Analysis</h2>
+                <div class="analysis-content"></div>
+            </section>
+
+            <section class="forecast-section">
+                <h2>Resource Forecast</h2>
+                <canvas id="forecastChart"></canvas>
+            </section>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+

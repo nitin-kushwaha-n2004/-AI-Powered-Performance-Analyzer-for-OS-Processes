@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "System_Process",
+        "cpu": 85.5,
+        "memory": 750.2,
+        "io": 35.8
+    },
+    {
+        "id": 2,
+        "name": "Browser_Process",
+        "cpu": 45.2,
+        "memory": 850.5,
+        "io": 42.3
+    },
+    {
+        "id": 3,
+        "name": "Database_Process",
+        "cpu": 75.8,
+        "memory": 600.1,
+        "io": 55.2
+    },
+    {
+        "id": 4,
+        "name": "Cache_Process",
+        "cpu": 30.4,
+        "memory": 400.8,
+        "io": 25.6
+    },
+    {
+        "id": 5,
+        "name": "Network_Process",
+        "cpu": 65.7,
+        "memory": 550.3,
+        "io": 45.8
+    }
+] 
